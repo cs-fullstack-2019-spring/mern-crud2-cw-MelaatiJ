@@ -5,7 +5,7 @@ const Schema = mongoose.Schema;
 const RSVPSchema = new Schema(
     {
         rsvp_person: String,
-        rsvp_going: Boolean
+        rsvp_going: Boolean,
     }
 );
 
