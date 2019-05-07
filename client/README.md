@@ -1,3 +1,6 @@
+POINTS: .5
+KEY: Good start but missing most of the client part.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

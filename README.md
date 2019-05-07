@@ -1,3 +1,6 @@
+POINTS: 2
+KEY: Some work here List was all that was required.
+
 ## MERN/CRUD Classwork
 
 ### Exercise:
